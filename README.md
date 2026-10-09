@@ -58,7 +58,7 @@ React와 Spring Boot로 서비스를 만들고, 배포한 뒤에 생기는 문�
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/toadsam/FestFlow"><img src="assets/festflow.webp" width="100%" alt="FestFlow 운영 대시보드와 모바일 화면"></a>
+      <a href="https://www.ajoufesta.com"><img src="assets/festflow.webp" width="100%" alt="FestFlow 운영 대시보드와 모바일 화면"></a>
       <br>
       <b>FestFlow</b> &nbsp;<sub>2026.04 ~ 10 · 개인</sub>
       <br>
@@ -66,7 +66,7 @@ React와 Spring Boot로 서비스를 만들고, 배포한 뒤에 생기는 문�
       <br><br>
       <code>React</code> <code>Spring Boot</code> <code>JWT</code> <code>SSE</code> <code>PWA</code> <code>MySQL</code>
       <br>
-      <a href="https://www.ajoufesta.com">사이트</a> · <a href="https://github.com/toadsam/FestFlow">저장소</a>
+      <a href="https://www.ajoufesta.com">사이트</a> · <a href="mailto:toadsam@naver.com?subject=FestFlow%20%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%97%B4%EB%9E%8C%20%EC%9A%94%EC%B2%AD">코드는 비공개 · 요청 시 공개</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://musclehub.co.kr"><img src="assets/muscleup.webp" width="100%" alt="득근득근 홈 화면"></a>
