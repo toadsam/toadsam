@@ -58,9 +58,9 @@ React와 Spring Boot로 서비스를 만들고, 배포한 뒤에 생기는 문�
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://www.ajoufesta.com"><img src="assets/festflow.webp" width="100%" alt="FestFlow 운영 대시보드와 모바일 화면"></a>
+      <a href="https://www.ajoufesta.com"><img src="assets/festflow.webp" width="100%" alt="AjouFesta 10월 실제 화면. 손님 축제 첫 화면, 주점 메뉴 담기, 분실물 안내판, 스태프 자리 현황판"></a>
       <br>
-      <b>FestFlow</b> &nbsp;<sub>2026.04 ~ 10 · 개인</sub>
+      <b>AjouFesta</b> <sub>(구 FestFlow)</sub> &nbsp;<sub>2026.04 ~ 10 · 개인</sub>
       <br>
       아주대 축제에서 두 번 실제 운영한 축제 앱입니다. 5월 대동제에서 AI 소개팅을 하루 돌렸고, 10월 가을축제에서는 주점 QR 주문, 사주 소개팅, 스태프 화면을 이틀 동안 돌렸습니다. 축제 주간 방문자 7,078명, 주점 첫날 주문 142건, 소개팅 가입 322명을 장애 없이 처리했습니다.
       <br><br>
