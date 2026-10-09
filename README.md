@@ -62,9 +62,9 @@ React와 Spring Boot로 서비스를 만들고, 배포한 뒤에 생기는 문�
       <br>
       <b>AjouFesta</b> <sub>(구 FestFlow)</sub> &nbsp;<sub>2026.04 ~ 10 · 개인</sub>
       <br>
-      아주대 축제에서 두 번 실제 운영한 축제 앱입니다. 5월 대동제에서 AI 소개팅을 하루 돌렸고, 10월 가을축제에서는 주점 QR 주문, 사주 소개팅, 스태프 화면을 이틀 동안 돌렸습니다. 축제 주간 방문자 7,078명, 주점 첫날 주문 142건, 소개팅 가입 322명을 장애 없이 처리했습니다.
+      아주대 축제에서 두 번 실제 운영한 축제 앱입니다. 5월 대동제에서 AI 소개팅을 하루 돌렸고, 10월 가을축제에서는 주점 QR 주문, 사주 소개팅, 스태프 화면을 이틀 동안 돌렸습니다. 축제 주간 방문자 7,078명, 주점 첫날 주문 142건, 소개팅 가입 322명을 장애 없이 처리했습니다. 가을축제 버전은 Claude Code와 함께 만들었고(커밋 130개 중 129개), 기능과 우선순위는 직접 정하고 AI가 고친 것은 재현 테스트와 두 기기 동시 테스트로 확인했습니다.
       <br><br>
-      <code>React</code> <code>Spring Boot</code> <code>JWT</code> <code>SSE</code> <code>PWA</code> <code>MySQL</code>
+      <code>React</code> <code>Spring Boot</code> <code>JWT</code> <code>SSE</code> <code>PWA</code> <code>MySQL</code> <code>Claude Code</code>
       <br>
       <a href="https://www.ajoufesta.com">사이트</a> · <a href="mailto:toadsam@naver.com?subject=FestFlow%20%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%97%B4%EB%9E%8C%20%EC%9A%94%EC%B2%AD">코드는 비공개 · 요청 시 공개</a>
     </td>
