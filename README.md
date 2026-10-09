@@ -60,9 +60,9 @@ React와 Spring Boot로 서비스를 만들고, 배포한 뒤에 생기는 문�
     <td width="50%" valign="top">
       <a href="https://github.com/toadsam/FestFlow"><img src="assets/festflow.webp" width="100%" alt="FestFlow 운영 대시보드와 모바일 화면"></a>
       <br>
-      <b>FestFlow</b> &nbsp;<sub>2026.04 ~ 06 · 개인</sub>
+      <b>FestFlow</b> &nbsp;<sub>2026.04 ~ 10 · 개인</sub>
       <br>
-      아주대 대동제에서 하루 동안 실제 운영한 축제 부스·매칭 관리 시스템입니다. AI Match 등록 169명, 신청 424건, 성사 36건을 처리했습니다.
+      아주대 축제에서 두 번 실제 운영한 축제 앱입니다. 5월 대동제에서 AI 소개팅을 하루 돌렸고, 10월 가을축제에서는 주점 QR 주문, 사주 소개팅, 스태프 화면을 이틀 동안 돌렸습니다. 10월 방문자 7,078명, 첫날 주문 142건, 소개팅 가입 322명을 장애 없이 처리했습니다.
       <br><br>
       <code>React</code> <code>Spring Boot</code> <code>JWT</code> <code>SSE</code> <code>PWA</code> <code>MySQL</code>
       <br>
